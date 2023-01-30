@@ -25,6 +25,7 @@ body {
 }
 
 .header nav {
+    /* Changed div to nav */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,10 +34,12 @@ body {
 }
 
 .header nav ul {
+    /* Changed div to nav */
     list-style-type: none;
 }
 
 .header nav ul li {
+    /* Changed div to nav */
     display: inline-block;
     margin-left: 25px;
 }
@@ -196,5 +199,6 @@ p {
 }
 
 .footer h1 {
+    /* Changed h2 to h1 */
     font-size: 20px;
 }
